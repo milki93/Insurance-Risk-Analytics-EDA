@@ -1,3 +1,5 @@
-/data/
+data/*
+!data/*.dvc
+
 /plots/
 /venv
