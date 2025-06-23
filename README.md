@@ -85,7 +85,7 @@ These tools helped explain why the models made certain predictions, supporting t
 
 ---
 
-## Key Takeaways
+## Insights
 
 - Classification models can effectively identify high-risk profiles with strong recall.
 - Regression models offer limited accuracy but may be used for rough estimations.
@@ -100,8 +100,6 @@ These tools helped explain why the models made certain predictions, supporting t
 ## Tools & Technologies
 
 - Python (pandas, scikit-learn, xgboost, shap, seaborn, matplotlib)
-- Jupyter Notebooks
-- Git & GitHub
 - DVC for data version control and reproducibility
 
 
